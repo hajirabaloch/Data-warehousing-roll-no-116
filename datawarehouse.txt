@@ -4,3 +4,6 @@ ROLL NUMBER:116
 Name Hajira Rahim bakhsh
 data is stored in central repository 
 data warehouses are used for analysis and decision making 
+     
+
+,,
