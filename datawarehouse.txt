@@ -1,3 +1,5 @@
 DATA WAREHOUSING 
 GITHUB PRACTICE 
 ROLL NUMBER:116
+data is stored in central repository 
+data warehouses are used for analysis and decision making 
